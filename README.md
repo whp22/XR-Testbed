@@ -1,5 +1,4 @@
 # A semi-simulated XR Testbed based on NS3 
 # Demo
-## Video
-Drag and drop videos:
+![Screenshot](https://github.com/whp22/XR-Testbed/assets/79181675/3a5ea017-c085-4c92-9db4-79d26f5fcb0c)
 
